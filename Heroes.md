@@ -7,4 +7,3 @@
 * Mujer maravilla
 * Linterna Verde
 * Robin
-* Volcan Negro
