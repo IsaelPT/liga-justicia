@@ -4,3 +4,4 @@
  3. Flash reverso
  4. Doomsday
  5. Death Shot
+ 6. Harley Queen
